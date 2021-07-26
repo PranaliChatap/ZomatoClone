@@ -188,7 +188,7 @@ section{
     font-weight: 900;
 }
 
-.text-x1{
+.text-xl{
     font-size: 1.5rem;
     line-height: 2rem;
     color: #1d3557;
@@ -378,7 +378,7 @@ footer > ul > li{
     .hero_image{
         margin-top: 2rem;
     }
-    .text-x1{
+    .text-xl{
         font-size: 1.875rem;
         line-height: 2.25rem;
     }
@@ -494,7 +494,7 @@ footer > ul > li{
         font-size: 3rem;
         line-height: 1;
     }
-    .text-x1{
+    .text-xl{
         font-size: 3rem;
         line-height: 1;
     }
